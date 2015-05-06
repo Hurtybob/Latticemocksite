@@ -1,0 +1,10 @@
+body {
+  background-color: #121212;
+  background-image: url(http://www.transparenttextures.com/patterns/black-orchid.png);
+}
+
+.title {
+  padding-top: 15em;
+  font-family: 'Raleway', sans-serif;
+  color: #ECF0F1;
+}

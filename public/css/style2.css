@@ -1,0 +1,17 @@
+body {
+  background-color: #0d0d0d;
+  background-image: url(http://www.transparenttextures.com/patterns/arches.png);
+}
+
+.container {
+  padding-top: 2em;
+}
+.nav {
+  font-family: 'Open Sans', sans-serif;
+  color: #ECF0F1;
+}
+.title {
+  padding-top: 15em;
+  font-family: 'Raleway', sans-serif;
+  color: #ECF0F1;
+}
